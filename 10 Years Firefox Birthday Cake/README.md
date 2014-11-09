@@ -1,6 +1,6 @@
 Birthday Cake Graphic for 10 Years of Firefox
 =======
-Cake print design for anyone who wants to make a #Firefox10 birthday cake. #ChooseIndependent
+Cake print design for anyone who wants to make a [#Firefox10](https://twitter.com/hashtag/firefox10?src=hash) birthday cake. [#ChooseIndependent](https://twitter.com/hashtag/ChooseIndependent?src=hash)
 
 You will need the [Fira] (https://www.mozilla.org/en-US/styleguide/products/firefox-os/typeface/) font if you want to modify the AI sources.
 
